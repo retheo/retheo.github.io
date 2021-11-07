@@ -1,3 +1,3 @@
 ---
-go: ttcps.github.io/previewtest
+go: //ttcps.github.io/previewtest
 ---
